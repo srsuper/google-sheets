@@ -1,5 +1,5 @@
 {
-  "name": "revolution/google-sheets",
+  "name": "revolution/laravel-google-sheets",
   "description": "Google Sheets API v4",
   "keywords": [
     "google",
